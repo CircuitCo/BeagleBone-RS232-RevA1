@@ -1,0 +1,1 @@
+The BeagleBone RS232 Cape provides an RS232 interface to the BeagleBone via a standard D-Sub 9 female serial connector. This connector is located to the side so it doesn't interfere with any capes stacked above it. Users will have the freedom of selecting four different UART interfaces via jumpers.
